@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import { } from 'react-native';
 import styled from 'styled-components/native'
 
@@ -63,10 +63,12 @@ const App = () => {
     let nBill = parseFloat(bill);
     if (nBill) {
       setTip((pct/100)*nBill);
-    } else {
-      alert("Enter account amount");
-    }
+    }  
   }
+
+  useEffect(()=>{
+    calc();
+  },[pct])
 
   return (
     <Page>
