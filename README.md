@@ -1,4 +1,5 @@
-#Tip Calculator
+
+# Tip Calculator
 This project is for study only and was built with the intention of using hooks.
 
 ### Build With
