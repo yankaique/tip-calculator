@@ -1,29 +1,38 @@
+<div align="center">
+   <h1>Tip Calculator</h1>
+</div>
 
-# Tip Calculator
-This project is for study only and was built with the intention of using hooks.
+<h6 align="center">
+🥋 Hard work and Code 
+</h6>
 
-### Build With
-- **React Native** - Framework JavaScript
+<p align="center">
+    <a href="#introduction">Introduction</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#tecnologies">Install</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#license">license</a>
+</p>
 
-### Libraries
-- **Styled-Components** - We will use Styled-Components for the creation and styling of components.
+<br>
 
-`npm install styled-components --save` or `yarn add styled-components`
+<h3 id="introduction"> 🏁 Introduction </h3>
+<p>This project is for study only and was built with the intention of using hooks.</p>
 
-### How to use
-- Clone this repository in your root folder
+<h3 id="tecnologies">  🚀 Tecnologies </h3>
 
-- Run the commands on your terminal `react-native run-android` or
-
-`run-ios`
-
-
-
-## Author
-- **Yan Kaique** - Mobile Developer
-
-### Acknowledgments
-- [**B7Web**](www.b7web.com.br "**B7Web**")
-- [**Bonieky Lacerda**](https://www.youtube.com/user/bonieky "**Bonieky Lacerda**")
+- [React Native]("https://reactnative.dev/")
+- [Styled-Components]("https://styled-components.com/")
 
 
+<h3 id="install"> 📲 Install </h3>
+
+1. clone the repository using `git clone`
+2. Install packages using `npm i` 
+3. Run `react-native run android` or `react-native run ios`
+<br>
+
+❗ If you use **Expo** run `expo start`
+
+
+<h3 id="license"> 🔒 License </h3>
+
+This project is under GNU license. See the [LICENSE](LICENSE.md) file for more details.
